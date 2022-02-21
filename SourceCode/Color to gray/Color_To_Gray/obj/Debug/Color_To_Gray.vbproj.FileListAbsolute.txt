@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\bin\Debug\Color_To_Gray.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\bin\Debug\Color_To_Gray.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\bin\Debug\Color_To_Gray.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\bin\Debug\Color_To_Gray.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\obj\Debug\Color_To_Gray.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\obj\Debug\Color_To_Gray.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\obj\Debug\Color_To_Gray.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\obj\Debug\Color_To_Gray.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\obj\Debug\Color_To_Gray.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\obj\Debug\Color_To_Gray.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Color to gray\Color_To_Gray\obj\Debug\Color_To_Gray.pdb

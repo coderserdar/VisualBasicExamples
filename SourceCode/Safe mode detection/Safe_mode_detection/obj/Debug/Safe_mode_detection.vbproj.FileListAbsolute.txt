@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\bin\Debug\Safe_mode_detection.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\bin\Debug\Safe_mode_detection.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\bin\Debug\Safe_mode_detection.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\bin\Debug\Safe_mode_detection.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\obj\Debug\Safe_mode_detection.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\obj\Debug\Safe_mode_detection.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\obj\Debug\Safe_mode_detection.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\obj\Debug\Safe_mode_detection.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\obj\Debug\Safe_mode_detection.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\obj\Debug\Safe_mode_detection.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Safe mode detection\Safe_mode_detection\obj\Debug\Safe_mode_detection.pdb

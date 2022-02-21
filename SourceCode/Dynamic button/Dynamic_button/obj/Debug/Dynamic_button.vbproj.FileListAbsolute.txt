@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\bin\Debug\Dynamic_button.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\bin\Debug\Dynamic_button.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\bin\Debug\Dynamic_button.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\bin\Debug\Dynamic_button.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\obj\Debug\Dynamic_button.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\obj\Debug\Dynamic_button.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\obj\Debug\Dynamic_button.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\obj\Debug\Dynamic_button.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\obj\Debug\Dynamic_button.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\obj\Debug\Dynamic_button.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dynamic button\Dynamic_button\obj\Debug\Dynamic_button.pdb

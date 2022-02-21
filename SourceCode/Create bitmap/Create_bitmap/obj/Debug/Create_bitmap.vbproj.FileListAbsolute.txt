@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\bin\Debug\Create_bitmap.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\bin\Debug\Create_bitmap.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\bin\Debug\Create_bitmap.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\bin\Debug\Create_bitmap.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\obj\Debug\Create_bitmap.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\obj\Debug\Create_bitmap.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\obj\Debug\Create_bitmap.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\obj\Debug\Create_bitmap.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\obj\Debug\Create_bitmap.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\obj\Debug\Create_bitmap.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Create bitmap\Create_bitmap\obj\Debug\Create_bitmap.pdb

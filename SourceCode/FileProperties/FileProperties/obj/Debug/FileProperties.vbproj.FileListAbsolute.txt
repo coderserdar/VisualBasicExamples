@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\bin\Debug\FileProperties.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\bin\Debug\FileProperties.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\bin\Debug\FileProperties.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\bin\Debug\FileProperties.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\obj\Debug\FileProperties.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\obj\Debug\FileProperties.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\obj\Debug\FileProperties.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\obj\Debug\FileProperties.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\obj\Debug\FileProperties.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\obj\Debug\FileProperties.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileProperties\FileProperties\obj\Debug\FileProperties.pdb

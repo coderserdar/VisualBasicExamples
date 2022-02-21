@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\bin\Debug\ScreenInfo.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\bin\Debug\ScreenInfo.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\bin\Debug\ScreenInfo.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\bin\Debug\ScreenInfo.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\obj\Debug\ScreenInfo.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\obj\Debug\ScreenInfo.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\obj\Debug\ScreenInfo.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\obj\Debug\ScreenInfo.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\obj\Debug\ScreenInfo.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\obj\Debug\ScreenInfo.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ScreenInfo\ScreenInfo\obj\Debug\ScreenInfo.pdb

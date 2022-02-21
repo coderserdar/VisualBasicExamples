@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\bin\Debug\SystemFonts.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\bin\Debug\SystemFonts.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\bin\Debug\SystemFonts.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\bin\Debug\SystemFonts.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\obj\Debug\SystemFonts.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\obj\Debug\SystemFonts.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\obj\Debug\SystemFonts.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\obj\Debug\SystemFonts.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\obj\Debug\SystemFonts.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\obj\Debug\SystemFonts.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SystemFonts\SystemFonts\obj\Debug\SystemFonts.pdb

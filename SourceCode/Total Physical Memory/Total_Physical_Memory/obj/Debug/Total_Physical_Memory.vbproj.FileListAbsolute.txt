@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\bin\Debug\Total_Physical_Memory.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\bin\Debug\Total_Physical_Memory.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\bin\Debug\Total_Physical_Memory.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\bin\Debug\Total_Physical_Memory.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\obj\Debug\Total_Physical_Memory.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\obj\Debug\Total_Physical_Memory.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\obj\Debug\Total_Physical_Memory.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\obj\Debug\Total_Physical_Memory.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\obj\Debug\Total_Physical_Memory.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\obj\Debug\Total_Physical_Memory.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Total Physical Memory\Total_Physical_Memory\obj\Debug\Total_Physical_Memory.pdb

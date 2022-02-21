@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\bin\Debug\PanelGradient.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\bin\Debug\PanelGradient.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\bin\Debug\PanelGradient.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\bin\Debug\PanelGradient.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.pdb

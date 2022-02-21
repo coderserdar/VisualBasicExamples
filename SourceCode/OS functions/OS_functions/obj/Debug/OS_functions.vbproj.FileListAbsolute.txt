@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\bin\Debug\OS_functions.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\bin\Debug\OS_functions.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\bin\Debug\OS_functions.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\bin\Debug\OS_functions.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\obj\Debug\OS_functions.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\obj\Debug\OS_functions.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\obj\Debug\OS_functions.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\obj\Debug\OS_functions.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\obj\Debug\OS_functions.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\obj\Debug\OS_functions.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\OS functions\OS_functions\obj\Debug\OS_functions.pdb

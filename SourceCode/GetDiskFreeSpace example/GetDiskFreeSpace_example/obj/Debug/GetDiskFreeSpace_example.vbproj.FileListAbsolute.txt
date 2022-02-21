@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\bin\Debug\GetDiskFreeSpace_example.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\bin\Debug\GetDiskFreeSpace_example.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\bin\Debug\GetDiskFreeSpace_example.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\bin\Debug\GetDiskFreeSpace_example.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\obj\Debug\GetDiskFreeSpace_example.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\obj\Debug\GetDiskFreeSpace_example.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\obj\Debug\GetDiskFreeSpace_example.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\obj\Debug\GetDiskFreeSpace_example.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\obj\Debug\GetDiskFreeSpace_example.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\obj\Debug\GetDiskFreeSpace_example.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace_example\obj\Debug\GetDiskFreeSpace_example.pdb

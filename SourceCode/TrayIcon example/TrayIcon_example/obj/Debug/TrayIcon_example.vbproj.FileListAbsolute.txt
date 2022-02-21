@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\bin\Debug\TrayIcon_example.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\bin\Debug\TrayIcon_example.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\bin\Debug\TrayIcon_example.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\bin\Debug\TrayIcon_example.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\obj\Debug\TrayIcon_example.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\obj\Debug\TrayIcon_example.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\obj\Debug\TrayIcon_example.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\obj\Debug\TrayIcon_example.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\obj\Debug\TrayIcon_example.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\obj\Debug\TrayIcon_example.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TrayIcon example\TrayIcon_example\obj\Debug\TrayIcon_example.pdb

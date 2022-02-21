@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.pdb

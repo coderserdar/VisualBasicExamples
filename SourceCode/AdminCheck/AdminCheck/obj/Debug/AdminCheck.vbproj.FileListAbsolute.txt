@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\bin\Debug\AdminCheck.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\bin\Debug\AdminCheck.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\bin\Debug\AdminCheck.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\bin\Debug\AdminCheck.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\obj\Debug\AdminCheck.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\obj\Debug\AdminCheck.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\obj\Debug\AdminCheck.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\obj\Debug\AdminCheck.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\obj\Debug\AdminCheck.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\obj\Debug\AdminCheck.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AdminCheck\AdminCheck\obj\Debug\AdminCheck.pdb

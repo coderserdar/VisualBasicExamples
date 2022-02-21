@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.pdb

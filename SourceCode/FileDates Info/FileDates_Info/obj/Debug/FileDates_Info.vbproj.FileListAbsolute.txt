@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\bin\Debug\FileDates_Info.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\bin\Debug\FileDates_Info.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\bin\Debug\FileDates_Info.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\bin\Debug\FileDates_Info.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\obj\Debug\FileDates_Info.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\obj\Debug\FileDates_Info.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\obj\Debug\FileDates_Info.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\obj\Debug\FileDates_Info.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\obj\Debug\FileDates_Info.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\obj\Debug\FileDates_Info.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\FileDates Info\FileDates_Info\obj\Debug\FileDates_Info.pdb

@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\bin\Debug\IsLaptop.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\bin\Debug\IsLaptop.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.pdb

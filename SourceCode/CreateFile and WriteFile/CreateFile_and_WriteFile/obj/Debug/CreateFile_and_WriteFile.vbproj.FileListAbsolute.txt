@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\bin\Debug\CreateFile_and_WriteFile.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\bin\Debug\CreateFile_and_WriteFile.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\bin\Debug\CreateFile_and_WriteFile.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\bin\Debug\CreateFile_and_WriteFile.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\obj\Debug\CreateFile_and_WriteFile.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\obj\Debug\CreateFile_and_WriteFile.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\obj\Debug\CreateFile_and_WriteFile.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\obj\Debug\CreateFile_and_WriteFile.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\obj\Debug\CreateFile_and_WriteFile.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\obj\Debug\CreateFile_and_WriteFile.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\CreateFile and WriteFile\CreateFile_and_WriteFile\obj\Debug\CreateFile_and_WriteFile.pdb

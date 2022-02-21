@@ -1,0 +1,11 @@
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\CheckFrameworks.exe.config
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\CheckFrameworks.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\CheckFrameworks.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\CheckFrameworks.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.Form1.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.Resources.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check .NET Frameworks.vbproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check .NET Frameworks.vbproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.exe
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.xml
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.pdb
