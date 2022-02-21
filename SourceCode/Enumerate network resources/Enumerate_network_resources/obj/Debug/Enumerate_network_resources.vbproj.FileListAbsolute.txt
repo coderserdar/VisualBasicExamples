@@ -2,7 +2,6 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate networ
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\bin\Debug\Enumerate_network_resources.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\bin\Debug\Enumerate_network_resources.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\bin\Debug\Enumerate_network_resources.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.vbproj.CoreCompileInputs.cache
@@ -10,3 +9,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate networ
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.vbprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Enumerate network resources\Enumerate_network_resources\obj\Debug\Enumerate_network_resources.FormEnumarateNetwork.resources

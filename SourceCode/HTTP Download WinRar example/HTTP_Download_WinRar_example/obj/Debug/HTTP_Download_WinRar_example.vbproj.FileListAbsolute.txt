@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download Wi
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\bin\Debug\HTTP_Download_WinRar_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\bin\Debug\HTTP_Download_WinRar_example.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\bin\Debug\HTTP_Download_WinRar_example.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\HTTP Download WinRar example\HTTP_Download_WinRar_example\obj\Debug\HTTP_Download_WinRar_example.FormHttpWinRar.resources

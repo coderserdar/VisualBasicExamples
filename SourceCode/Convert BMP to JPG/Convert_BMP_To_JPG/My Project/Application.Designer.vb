@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Convert_BMP_To_JPG.Form1
+            Me.MainForm = Global.Convert_BMP_To_JPG.FormConvertBmpToJpg
         End Sub
     End Class
 End Namespace

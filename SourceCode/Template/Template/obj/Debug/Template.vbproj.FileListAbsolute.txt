@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Templat
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\bin\Debug\Template.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\bin\Debug\Template.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\bin\Debug\Template.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Template\Template\obj\Debug\Template.FormTemplate.resources

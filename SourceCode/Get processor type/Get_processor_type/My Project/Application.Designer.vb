@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Get_processor_type.Form1
+            Me.MainForm = Global.Get_processor_type.FormGetProcessorType
         End Sub
     End Class
 End Namespace

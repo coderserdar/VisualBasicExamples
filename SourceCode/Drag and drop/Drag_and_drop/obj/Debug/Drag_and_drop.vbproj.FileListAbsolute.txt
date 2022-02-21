@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Dr
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\bin\Debug\Drag_and_drop.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\bin\Debug\Drag_and_drop.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\bin\Debug\Drag_and_drop.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Drag and drop\Drag_and_drop\obj\Debug\Drag_and_drop.FormDragDrop.resources

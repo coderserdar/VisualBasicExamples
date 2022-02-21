@@ -2,7 +2,6 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calenda
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\bin\Debug\Calendar.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\bin\Debug\Calendar.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\bin\Debug\Calendar.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.vbproj.CoreCompileInputs.cache
@@ -10,3 +9,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calenda
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.vbprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.FormCalendar.resources

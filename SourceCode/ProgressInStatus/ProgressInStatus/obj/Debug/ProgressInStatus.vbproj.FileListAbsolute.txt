@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\bin\Debug\ProgressInStatus.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\bin\Debug\ProgressInStatus.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\bin\Debug\ProgressInStatus.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressInStatus\ProgressInStatus\obj\Debug\ProgressInStatus.FormProgressInStatus.resources

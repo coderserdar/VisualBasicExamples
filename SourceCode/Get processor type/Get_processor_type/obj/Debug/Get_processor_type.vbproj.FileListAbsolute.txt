@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor ty
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\bin\Debug\Get_processor_type.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\bin\Debug\Get_processor_type.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\bin\Debug\Get_processor_type.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get processor type\Get_processor_type\obj\Debug\Get_processor_type.FormGetProcessorType.resources

@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Total_Physical_Memory.Form1
+            Me.MainForm = Global.Total_Physical_Memory.FormTotalPhysicalMemory
         End Sub
     End Class
 End Namespace

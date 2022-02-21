@@ -2,10 +2,11 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\Con
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\bin\Debug\ConvertToHex.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\bin\Debug\ConvertToHex.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\bin\Debug\ConvertToHex.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.FormConvertToHex.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ConvertToHex\ConvertToHex\obj\Debug\ConvertToHex.vbprojAssemblyReference.cache

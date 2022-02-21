@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\bin\Debug\Country_listing.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\bin\Debug\Country_listing.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\bin\Debug\Country_listing.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Country listing\Country_listing\obj\Debug\Country_listing.FormCountryListing.resources

@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mu
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\bin\Debug\Mutex_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\bin\Debug\Mutex_example.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\bin\Debug\Mutex_example.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Mutex example\Mutex_example\obj\Debug\Mutex_example.FormMutex.resources

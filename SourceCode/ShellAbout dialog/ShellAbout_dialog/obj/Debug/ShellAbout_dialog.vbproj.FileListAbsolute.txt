@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialo
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\bin\Debug\ShellAbout_dialog.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\bin\Debug\ShellAbout_dialog.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\bin\Debug\ShellAbout_dialog.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ShellAbout dialog\ShellAbout_dialog\obj\Debug\ShellAbout_dialog.FormShellAbout.resources

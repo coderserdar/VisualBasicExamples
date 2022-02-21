@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.HTTP_Download_WinRar_example.Form1
+            Me.MainForm = Global.HTTP_Download_WinRar_example.FormHttpWinRar
         End Sub
     End Class
 End Namespace

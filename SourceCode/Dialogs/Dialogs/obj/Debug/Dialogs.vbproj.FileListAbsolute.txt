@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\bin\Debug\Dialogs.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\bin\Debug\Dialogs.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.FormDialogs.resources

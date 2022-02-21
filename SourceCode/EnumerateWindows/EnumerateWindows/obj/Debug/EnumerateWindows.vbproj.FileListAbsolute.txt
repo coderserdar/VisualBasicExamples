@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\bin\Debug\EnumerateWindows.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\bin\Debug\EnumerateWindows.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\bin\Debug\EnumerateWindows.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\EnumerateWindows\EnumerateWindows\obj\Debug\EnumerateWindows.FormEnumarateWindows.resources

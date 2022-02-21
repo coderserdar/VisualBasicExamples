@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer nam
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\bin\Debug\Get_computer_name.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\bin\Debug\Get_computer_name.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\bin\Debug\Get_computer_name.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Get computer name\Get_computer_name\obj\Debug\Get_computer_name.FormGetComputerName.resources

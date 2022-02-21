@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adr
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\bin\Debug\IP_Adress.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\bin\Debug\IP_Adress.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\bin\Debug\IP_Adress.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IP Adress\IP_Adress\obj\Debug\IP_Adress.FormIpAdress.resources

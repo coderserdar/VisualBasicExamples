@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarqu
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\bin\Debug\ProgressBarMarquee.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\bin\Debug\ProgressBarMarquee.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\bin\Debug\ProgressBarMarquee.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ProgressBarMarquee\ProgressBarMarquee\obj\Debug\ProgressBarMarquee.FormProgressBarMarquee.resources

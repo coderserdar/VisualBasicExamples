@@ -2,10 +2,11 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\Template.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\Template.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\Template.FormBackgroundWorker.resources
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.vbprojAssemblyReference.cache

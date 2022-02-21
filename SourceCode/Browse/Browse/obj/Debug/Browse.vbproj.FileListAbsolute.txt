@@ -4,10 +4,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\bi
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\bin\Debug\Browse.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Browse.vbprojAssemblyReference.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Template.Browse_network.resources
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Template.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Template.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Browse.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Browse.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Browse.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Browse.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Browse.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Browse\Browse\obj\Debug\Template.FormBrowse.resources

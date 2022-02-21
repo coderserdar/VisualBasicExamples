@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\So
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\bin\Debug\SourceCodeURL.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\bin\Debug\SourceCodeURL.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\bin\Debug\SourceCodeURL.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\SourceCodeURL\SourceCodeURL\obj\Debug\SourceCodeURL.FormSourceCodeUrl.resources

@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text ali
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\bin\Debug\TButton_text_alignment.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\bin\Debug\TButton_text_alignment.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\bin\Debug\TButton_text_alignment.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\TButton text alignment\TButton_text_alignment\obj\Debug\TButton_text_alignment.FormButtonTextAlignment.resources

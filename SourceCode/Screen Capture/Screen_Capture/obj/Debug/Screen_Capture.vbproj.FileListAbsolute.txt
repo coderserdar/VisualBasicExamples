@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\S
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\bin\Debug\Screen_Capture.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\bin\Debug\Screen_Capture.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\bin\Debug\Screen_Capture.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Screen Capture\Screen_Capture\obj\Debug\Screen_Capture.FormScreenCapture.resources

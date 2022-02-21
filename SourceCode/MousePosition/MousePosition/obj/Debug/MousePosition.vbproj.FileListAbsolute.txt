@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\Mo
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\bin\Debug\MousePosition.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\bin\Debug\MousePosition.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\bin\Debug\MousePosition.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\MousePosition\MousePosition\obj\Debug\MousePosition.FormMousePosition.resources

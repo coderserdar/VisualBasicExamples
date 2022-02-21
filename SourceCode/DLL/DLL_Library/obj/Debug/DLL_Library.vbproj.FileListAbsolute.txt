@@ -7,3 +7,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\DLL\DLL_Library\
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\DLL\DLL_Library\obj\Debug\DLL_Library.dll
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\DLL\DLL_Library\obj\Debug\DLL_Library.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\DLL\DLL_Library\obj\Debug\DLL_Library.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\DLL\DLL_Library\obj\Debug\DLL_Library.vbprojAssemblyReference.cache

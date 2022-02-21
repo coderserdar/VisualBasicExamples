@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Pin
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\bin\Debug\Ping_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\bin\Debug\Ping_example.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\bin\Debug\Ping_example.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Ping example\Ping_example\obj\Debug\Ping_example.FormPing.resources

@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages an
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\bin\Debug\Send_Messages_and_Keys_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\bin\Debug\Send_Messages_and_Keys_example.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\bin\Debug\Send_Messages_and_Keys_example.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Send Messages and Keys example\Send_Messages_and_Keys_example\obj\Debug\Send_Messages_and_Keys_example.FormSendMessagesAndKeys.resources

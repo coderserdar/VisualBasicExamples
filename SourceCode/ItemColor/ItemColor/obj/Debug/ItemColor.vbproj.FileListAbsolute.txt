@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemCo
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\bin\Debug\ItemColor.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\bin\Debug\ItemColor.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\bin\Debug\ItemColor.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.FormItemColor.resources

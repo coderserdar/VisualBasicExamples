@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.TButton_text_alignment.Form1
+            Me.MainForm = Global.TButton_text_alignment.FormButtonTextAlignment
         End Sub
     End Class
 End Namespace

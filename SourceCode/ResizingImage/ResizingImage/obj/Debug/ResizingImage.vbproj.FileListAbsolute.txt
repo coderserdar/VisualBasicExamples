@@ -2,10 +2,10 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\Re
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\bin\Debug\ResizingImage.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\bin\Debug\ResizingImage.pdb
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\bin\Debug\ResizingImage.xml
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.Form1.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.Resources.resources
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.vbproj.GenerateResource.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.vbproj.CoreCompileInputs.cache
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\ResizingImage\ResizingImage\obj\Debug\ResizingImage.FormResizingImage.resources
