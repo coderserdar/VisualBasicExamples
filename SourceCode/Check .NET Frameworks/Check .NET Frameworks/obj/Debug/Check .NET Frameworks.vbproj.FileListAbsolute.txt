@@ -9,3 +9,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frame
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\CheckFrameworks.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check .NET Frameworks.vbprojAssemblyReference.cache

@@ -9,3 +9,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLapto
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.vbprojAssemblyReference.cache

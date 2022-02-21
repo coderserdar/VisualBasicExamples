@@ -9,3 +9,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calenda
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calendar\Calendar\obj\Debug\Calendar.vbprojAssemblyReference.cache

@@ -9,3 +9,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calcu
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache

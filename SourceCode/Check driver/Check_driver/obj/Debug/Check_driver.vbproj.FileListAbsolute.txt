@@ -9,4 +9,3 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check driver\Che
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check driver\Check_driver\obj\Debug\Check_driver.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check driver\Check_driver\obj\Debug\Check_driver.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check driver\Check_driver\obj\Debug\Check_driver.pdb
-C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\Check driver\Check_driver\obj\Debug\Check_driver.vbprojAssemblyReference.cache

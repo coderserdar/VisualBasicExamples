@@ -9,3 +9,4 @@ C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AlwaysOnTop\Alwa
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AlwaysOnTop\AlwaysOnTop\obj\Debug\AlwaysOnTop.exe
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AlwaysOnTop\AlwaysOnTop\obj\Debug\AlwaysOnTop.xml
 C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AlwaysOnTop\AlwaysOnTop\obj\Debug\AlwaysOnTop.pdb
+C:\Users\serdar\Documents\GitHub\VisualBasicExamples\SourceCode\AlwaysOnTop\AlwaysOnTop\obj\Debug\AlwaysOnTop.vbprojAssemblyReference.cache
